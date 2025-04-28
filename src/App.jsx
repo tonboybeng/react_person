@@ -13,6 +13,7 @@ export const misha = {
 
 export const olya = {
   name: 'Olya',
+  age: 45,
   sex: 'f',
   isMarried: true,
   partnerName: 'Maksym',
